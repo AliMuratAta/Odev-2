@@ -1,0 +1,45 @@
+.part1 {
+    background-color: #EEEEEE;
+    font-size: medium;
+    margin-top: none;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.part2 {
+    background-color: #7EE5DA;
+    width: 30%;
+    height: 70px;
+    float: left;
+    margin: 2px;
+    padding: 5px;
+    margin-left: 70px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.part3 {
+    background-color: #70CCC2;
+    width: 30%;
+    height: 70px;
+    float: left;
+    text-align: center;
+    margin: 2px;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.part4 {
+    background-color: #62B3AA;
+    width: 29.7%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    font-size: small;
+    margin: 2px;
+}
+
+.part5 {
+    clear:left;
+    margin-top: 40px;
+}
